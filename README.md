@@ -11,7 +11,7 @@
 
 см. файл requirements.txt
 
-Основная программа запускается из файла PyQT_interface.py. При запуске появляется следующее окно: ![alt text]([https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fillustricon-tech%2F512%2Fdevelopment.desktop-1024.png&lr=4&pos=3&rpt=simage&text=картинки%20программа])
+Основная программа запускается из файла PyQT_interface.py. При запуске появляется следующее окно: ![alt text]([])
 
 Давайте подробно разберём функционал программы.
 
