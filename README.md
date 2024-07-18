@@ -8,6 +8,7 @@
 - TensorFlow
 - Sci-kit learn
 - PyQT5
+
 см. файл requirements.txt
 
 Основная программа запускается из файла PyQT_interface.py. При запуске появляется следующее окно:
