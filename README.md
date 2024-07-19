@@ -12,8 +12,10 @@
 см. файл requirements.txt
 
 Основная программа запускается из файла PyQT_interface.py. При запуске появляется следующее окно: 
-<p align="justify">
-  ![alt text](https://github.com/AlekseiRodionov/Synthetic_segmentation/blob/main/images/test.jpg?raw=true)
+![alt text](https://github.com/AlekseiRodionov/Synthetic_segmentation/blob/main/images/test.jpg?raw=true)
+
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/AlekseiRodionov/Synthetic_segmentation/blob/main/images/test.jpg?raw=true)" />
 </p>
 
 Давайте подробно разберём функционал программы.
