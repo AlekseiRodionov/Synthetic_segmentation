@@ -11,7 +11,7 @@
 
 см. файл requirements.txt
 
-Основная программа запускается из файла PyQT_interface.py. При запуске появляется следующее окно: ![alt text](https://github.com/AlekseiRodionov/Synthetic_learning/blob/main/images/test.jpg?raw=true)
+Основная программа запускается из файла PyQT_interface.py. При запуске появляется следующее окно: ![alt text](https://github.com/AlekseiRodionov/Synthetic_segmentation/blob/main/images/test.jpg?raw=true)
 
 Давайте подробно разберём функционал программы.
 
