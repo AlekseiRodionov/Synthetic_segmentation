@@ -18,7 +18,7 @@
 - TensorFlow
 - Sci-kit learn
 
-см. файл requirements.txt
+см. файл requirements.txt.
 
   Помимо этого для работы приложения необходимо установить PyQT5 (версии 5.9.2.).
 
