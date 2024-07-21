@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://github.com/AlekseiRodionov/Synthetic_segmentation/blob/main/readme_images/wrong_mask_for_synthetic_data.jpg?raw=true" />
 </p>
-  То в синтетические данные вставится не всё изображение, а лишь та его часть, которая соответствует маске
+  То в синтетические данные вставится не всё изображение, а лишь та его часть, которая соответствует маске.
 
   После формирования набора данных в рабочей директории создаются папки "Photos_with_rocks", а также "Photos_with_masks". В эти папки сохраняется синтетическая выборка.
 
